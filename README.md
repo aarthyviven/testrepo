@@ -1,2 +1,2 @@
-# testrepo
+# Sample Repository Creation
 First Repository
