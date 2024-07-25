@@ -1,2 +1,2 @@
-# Sample Repository Creation
+## Sample Repository Creation
 First Repository
